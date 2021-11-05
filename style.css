@@ -21,6 +21,6 @@ body{background-size:cover;
 canvas{
     border:red dashed 3px;
     border-radius: 10px;
-    margin-top:100px;
+    margin-top:120px;
     box-shadow:5px 5px 5px yellow
 }
